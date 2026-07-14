@@ -24,11 +24,13 @@ class ReservationDetailsPage extends StatelessWidget {
       body: SingleChildScrollView(
         child: Column(
           children: const [
-            WeatherBanner(airportCode: "ORD"),
-
             SizedBox(height: 16),
 
             ReservationHeader(),
+
+            SizedBox(height: 16),
+
+            WeatherBanner(airportCode: 'ORD'),
 
             SizedBox(height: 16),
 

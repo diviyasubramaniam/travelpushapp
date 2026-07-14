@@ -1,17 +1,36 @@
 # travelpushapp
 
-A new Flutter project.
+# Costco Travel Reservation Details App
 
-## Getting Started
+Flutter application demonstrating a travel reservation details experience.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Reservation summary
+- Cancellation information
+- Driver information
+- Itinerary details
+- Weather banner integration
+- Responsive Flutter UI
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Material 3
+- REST API integration
+- Windows Desktop support
+
+## Run Locally
+
+Clone repository:
+
+git clone <repo-url>
+
+Install dependencies:
+
+flutter pub get
+
+Run:
+
+flutter run
